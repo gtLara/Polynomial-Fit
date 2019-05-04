@@ -1,7 +1,3 @@
-#Implementação de um aproximador linear (polinomial) de uma função 
-#recebe uma sequência de entradas e saídas, retorna uma lista de pesos que 
-#representam os coeficientes de um polinômio de grau P, que aproxima
-#o mapeamento da entrada na saída
 library('corpcor')
 
 H_init <- function(x, p){
